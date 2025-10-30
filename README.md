@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Janidu Sathsara 👋
 
-<!--
-**janidusathsara/janidusathsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a student passionate about learning coding and exploring AI 🤖.  
+Currently developing my skills in **Python, JavaScript, and Machine Learning**, with a focus on building practical applications and contributing to open-source projects in the future.
 
-Here are some ideas to get you started:
+## Skills 💻
+- **Programming Languages:** Python 🐍, JavaScript ✨, HTML 🌐, CSS 🎨  
+- **Technologies & Tools:** Machine Learning (ML) 📊, AI basics 🤖, Git & GitHub 🗂️, VS Code 💡  
+- **Areas of Interest:** Web Development 🌍, AI applications 🤖, Open Source 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Goals 🎯
+- Gain hands-on experience with Python and JavaScript  
+- Build small projects to apply AI and ML concepts  
+- Collaborate and contribute to open-source projects  
+- Develop proficiency in web development and coding best practices
+
+## Connect with Me 📫 
+- Email: [janidusathsara497@gmail.com]  
+
