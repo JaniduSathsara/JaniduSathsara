@@ -16,5 +16,5 @@ Currently developing my skills in **Python, JavaScript, and Machine Learning**, 
 - Develop proficiency in web development and coding best practices
 
 ## Connect with Me 📫 
-- Email: [janidusathsara497@gmail.com]  
+- Email:janidusathsara497@gmail.com
 
