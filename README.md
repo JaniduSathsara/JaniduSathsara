@@ -17,5 +17,4 @@ Currently developing my skills in **Python, JavaScript, and Machine Learning**, 
 
 ## Connect with Me 📫 
 - Email: janidusathsara497@gmail.com
-- Reddit:  https://www.reddit.com/user/Leg4and/
 
