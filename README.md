@@ -4,7 +4,7 @@
 I am a student passionate about learning coding and exploring AI 🤖.  
 Currently developing my skills in **Python, JavaScript, and Machine Learning**, with a focus on building practical applications and contributing to open-source projects in the future.
 
-## Skills 💻
+## Learning 💻
 - **Programming Languages:** Python 🐍, JavaScript ✨, HTML 🌐, CSS 🎨  
 - **Technologies & Tools:** Machine Learning (ML) 📊, AI basics 🤖, Git & GitHub 🗂️, VS Code 💡  
 - **Areas of Interest:** Web Development 🌍, AI applications 🤖, Open Source 🌱
