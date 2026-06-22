@@ -7,7 +7,7 @@ I am a student passionate about learning coding and exploring AI 🤖.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janidu1218&theme=tokyonight" />
 </p>
 <h2 align="center">💻 Skills & Studying</h2>
 
