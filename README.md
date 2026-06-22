@@ -47,7 +47,3 @@ I am a student passionate about learning coding and exploring AI 🤖.
 </p>
 
 ---
-
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
-</p>
