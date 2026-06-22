@@ -14,7 +14,7 @@ I am a student passionate about learning coding and exploring AI 🤖.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Learning Technologies
 
 ### 🚀 Programming Languages
 <p align="center">
@@ -25,20 +25,7 @@ I am a student passionate about learning coding and exploring AI 🤖.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 ---
-
-## 📚 Currently Learning
-
-- 🐍 Python  
-- ☕ Java  
-- ✨ JavaScript  
-- 🌐 HTML & CSS  
-- 🤖 AI & Machine Learning Basics  
-- 🗂️ Git & GitHub  
-
----
-
 ## 🎯 Goals
 
 - Build real-world projects  
