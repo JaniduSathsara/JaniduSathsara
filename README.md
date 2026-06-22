@@ -1,45 +1,22 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Janidu Sathsara
+# Hello, I'm Janidu Sathsara 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!+🚀;Python+Developer+🐍;Java+Programmer+☕;AI+Enthusiast+🤖;Machine+Learning+Learner+📊;Future+Software+Engineer+💻;Open+Source+Contributor+🌱" />
-</p>
+## About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janidu1218&theme=tokyonight&row=1&column=7" />
-</p>
+I am a student passionate about learning coding and exploring AI 🤖.
 
-## 🌟 About Me
+🎓 Student Developer
 
-🎓 Student passionate about coding and technology
+💻 Learning Programming & Software Development
 
-🤖 Exploring Artificial Intelligence and Machine Learning
+🤖 Exploring Artificial Intelligence & Machine Learning
 
-🌐 Learning Web Development
+🌐 Interested in Web Development
 
-💡 Building projects and improving problem-solving skills
-
-🚀 Future Software Engineer
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=janidu1218&show_icons=true&theme=tokyonight&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidu1218&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janidu1218&theme=tokyonight" />
-</p>
+🚀 Building Projects and Improving My Skills
 
 ---
 
 ## 💻 Skills & Studying
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+🐍;Java+☕;JavaScript+✨;HTML+🌐;CSS+🎨;Machine+Learning+📊;AI+Basics+🤖;Git+%26+GitHub+🗂️;VS+Code+💡" />
-</p>
 
 ### 🚀 Programming Languages
 
@@ -53,32 +30,55 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### 🌍 Areas of Interest
+### 📚 Currently Learning
 
-* Web Development 🌐
-* Artificial Intelligence 🤖
-* Machine Learning 📊
-* Open Source 🌱
+* 🐍 Python
+* ☕ Java
+* ✨ JavaScript
+* 🌐 HTML & CSS
+* 📊 Machine Learning (ML)
+* 🤖 AI Basics
+* 🗂️ Git & GitHub
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janidu1218&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janidu1218&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 Areas of Interest
+
+🌍 Web Development
+
+🤖 Artificial Intelligence
+
+📊 Machine Learning
+
+🌱 Open Source Projects
+
+💡 Software Development
 
 ---
 
 ## 🎯 Learning Goals
 
-✅ Master Python
-
-✅ Improve Java Programming
-
-✅ Learn Machine Learning
-
-✅ Build Real-World Projects
-
-✅ Contribute to Open Source
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+* Gain hands-on experience with Python and Java
+* Improve JavaScript skills
+* Build AI and ML projects
+* Contribute to Open Source Projects
+* Become a Full-Stack Developer
 
 ---
 
