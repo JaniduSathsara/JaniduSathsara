@@ -25,7 +25,9 @@ I am a student passionate about learning coding and exploring AI 🤖.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
 ---
+
 ## 🎯 Goals
 
 - Build real-world projects  
