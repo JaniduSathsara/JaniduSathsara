@@ -1,28 +1,22 @@
-# 👋 Hi, I'm Janidu Sathsara
+# Hi there, I'm Janidu Sathsara 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Student+Developer;Java+Programmer;Web+Development+Learner;Exploring+AI+%26+Machine+Learning;Building+Projects+🚀"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+Developer;Learning+Java+%26+Web+Development;Exploring+AI+%26+Machine+Learning;Building+Cool+Projects+🚀" />
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Janidu Sathsara** 👋
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a student developer passionate about programming, software development and artificial intelligence.
+I am a student developer passionate about coding, technology, and artificial intelligence 🤖.
 
 - 🎓 Student Developer
-- ☕ Learning Java Programming
+- 💻 Learning Programming & Software Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🌐 Interested in Web Development
-- 🤖 Exploring Artificial Intelligence
-- 🧠 Improving Problem Solving Skills
-- 🚀 Building Real World Projects
+- 🚀 Creating projects and improving my skills
 
+<br>
 
 ---
 
