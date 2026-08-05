@@ -18,7 +18,7 @@ I am a student passionate about learning coding and exploring AI 🤖.
 
 ### 🚀 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=,java,html,css" />
 </p>
 
 ### 🧰 Tools & Platforms
