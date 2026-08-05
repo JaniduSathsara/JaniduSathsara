@@ -1,7 +1,5 @@
 # Hi there, I'm Janidu Sathsara 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+Developer;Learning+Java+%26+Web+Development;Exploring+AI+%26+Machine+Learning;Building+Cool+Projects+🚀" />
-
 ---
 
 ## 👨‍💻 About Me
@@ -66,22 +64,6 @@ I am a student developer passionate about coding, technology, and artificial int
 
 🤖 Create AI Projects
 
-
----
-
-# 📊 GitHub Analytics
-
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaniduSathsara&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img width="48%" src="https://streak-stats.demolab.com?user=JaniduSathsara&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
 ---
 
 # 💻 Top Languages
@@ -100,9 +82,7 @@ I am a student developer passionate about coding, technology, and artificial int
 
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/JaniduSathsara/JaniduSathsara/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/JaniduSathsara/JaniduSathsara/output/github-contribution-grid-snake.svg" />
 </p>
 
 
