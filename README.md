@@ -24,7 +24,7 @@ I am a student developer passionate about coding, technology, and artificial int
 ## 🚀 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,html,css&theme=dark"/>
 </p>
 
 
@@ -78,16 +78,6 @@ I am a student developer passionate about coding, technology, and artificial int
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JaniduSathsara/JaniduSathsara/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
 # 📫 Connect With Me
 
 
@@ -101,9 +91,7 @@ I am a student developer passionate about coding, technology, and artificial int
 
 </p>
 
-
 ---
-
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
