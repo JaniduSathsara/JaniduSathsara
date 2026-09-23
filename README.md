@@ -54,7 +54,7 @@ I'm a **Student Developer** passionate about software development, web technolog
 
 <p align="center">
   <a href="mailto:janidusathsara497@gmail.com">
-    <img src="https://img.logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
