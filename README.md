@@ -43,13 +43,6 @@ I'm a **Student Developer** passionate about software development, web technolog
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaniduSathsara&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduSathsara&layout=compact&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -61,7 +54,7 @@ I'm a **Student Developer** passionate about software development, web technolog
 
 <p align="center">
   <a href="mailto:janidusathsara497@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-2f81f7?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.logo=gmail&logoColor=white">
   </a>
 </p>
 
