@@ -9,7 +9,6 @@ I'm a **Student Developer** passionate about software development, web technolog
 ## 👨‍💻 About Me
 
 * 🎓 Student Developer
-* ☕ Currently learning **Java**
 * 🌐 Exploring **Web Development**
 * 🤖 Interested in **Artificial Intelligence & Machine Learning**
 * 🚀 Learning by building real-world projects
