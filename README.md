@@ -1,83 +1,79 @@
-# Hi there, I'm Janidu Sathsara 👋
-
+# Hi, I'm Janidu Sathsara 👋
+----
+I am a student developer passionate about coding, technology, and artificial intelligence 🤖.
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-I am a student developer passionate about coding, technology, and artificial intelligence 🤖.
-
-- 🎓 Student Developer
-- 💻 Learning Programming & Software Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌐 Interested in Web Development
-- 🚀 Creating projects and improving my skills
-
-<br>
+* 🎓 Student Developer
+* 💻 Currently learning **Java, JavaScript & MySQL**
+* 🌐 Interested in **Web Development**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🚀 Building projects to improve my development skills
+* 📚 Always learning and experimenting with new technologies
 
 ---
 
-# 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
+### 🚀 Programming Languages
 
-## 🚀 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css&theme=dark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
+### 🗄️ Database
 
-## 🔧 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+### 🔧 Tools
 
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java"/>
-
-<img src="https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5"/>
-
-<img src="https://img.shields.io/badge/AI-Machine_Learning-black?style=for-the-badge&logo=openai"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+---
+
+## 📚 Currently Learning
+
+* ☕ Java
+* 🟨 JavaScript
+* 🗄️ MySQL & Database Development
+* 🌐 Web Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧩 Object-Oriented Programming
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
-🚀 Build real-world applications
-
-🧠 Improve coding skills
-
-🌐 Become a Full Stack Developer
-
-🤝 Contribute to Open Source
-
-🤖 Create AI Projects
+* 🚀 Build real-world applications
+* 🧠 Strengthen my programming and problem-solving skills
+* 🌐 Become a Full Stack Developer
+* 🤝 Contribute to Open Source projects
+* 🤖 Build practical AI projects
+* 📈 Continuously improve as a developer
 
 ---
 
+## 📫 Connect With Me
 
-# 📫 Connect With Me
+<p>
+  <a href="mailto:janidusathsara497@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
 <p align="center">
+  <i>“Learning today, building tomorrow.”</i>
+</p>
 
-<a href="mailto:janidusathsara497@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 ---
