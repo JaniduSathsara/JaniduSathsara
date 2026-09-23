@@ -1,25 +1,29 @@
 # Hi, I'm Janidu Sathsara 👋
 
----
+### Student Developer | Java & Web Development | AI/ML Enthusiast
 
-I am a student developer passionate about coding, technology, and artificial intelligence 🤖.
+I'm a **Student Developer** passionate about software development, problem-solving, and emerging technologies. I'm currently building my foundation in **Java, JavaScript, and MySQL** while exploring **Web Development, Artificial Intelligence, and Machine Learning**.
+
+I enjoy learning by building projects, experimenting with new technologies, and turning ideas into practical applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Student Developer
-* 💻 Currently learning **Java, JavaScript & MySQL**
-* 🌐 Interested in **Web Development**
+* 🎓 Student Developer focused on continuous learning
+* ☕ Currently learning **Java**
+* 🌐 Exploring **JavaScript & Web Development**
+* 🗄️ Working with **MySQL & Databases**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🚀 Building projects to improve my development skills
-* 📚 Always learning and experimenting with new technologies
+* 🚀 Building projects to gain real-world development experience
+* 🧠 Interested in improving problem-solving and software engineering skills
+* 📚 Always learning, experimenting, and building
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### 🚀 Programming Languages
+### 💻 Languages & Web Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css" />
@@ -31,7 +35,7 @@ I am a student developer passionate about coding, technology, and artificial int
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -39,39 +43,57 @@ I am a student developer passionate about coding, technology, and artificial int
 
 ---
 
-## 🎯 Goals
+## 🎯 Current Focus
 
-<div align="center">
-
-🚀 **Build real-world applications**
-
-🧠 **Strengthen my programming and problem-solving skills**
-
-🌐 **Become a Full Stack Developer**
-
-🤝 **Contribute to Open Source projects**
-
-🤖 **Build practical AI projects**
-
-📈 **Continuously improve as a developer**
-
-</div>
+```text
+Java                    ███████████████░░░  Learning
+JavaScript              ████████████░░░░░░  Learning
+MySQL                   █████████████░░░░░  Learning
+Web Development         ███████████░░░░░░░  Exploring
+Artificial Intelligence ████████░░░░░░░░░░  Exploring
+Machine Learning        ██████░░░░░░░░░░░░  Exploring
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Goals
+
+* Build and deploy **real-world applications**
+* Strengthen **Java & software development fundamentals**
+* Become a **Full-Stack Developer**
+* Develop strong **problem-solving skills**
+* Build practical **AI-powered applications**
+* Contribute to **Open Source projects**
+* Learn modern development tools and technologies
+* Continuously improve as a software developer
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaniduSathsara&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaniduSathsara&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JaniduSathsara&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=JaniduSathsara&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduSathsara&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduSathsara&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📌 What I'm Working Towards
+
+```text
+Learn → Build → Experiment → Improve → Share
+```
+
+My goal is to turn what I learn into **useful projects**, while gradually developing the skills needed to work on larger and more complex software systems.
+
+---
 
 ## 📫 Connect With Me
 
