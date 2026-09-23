@@ -1,40 +1,55 @@
 # Hi, I'm Janidu Sathsara 👋
 
-### 💻 Student Developer | Java Learner | AI Enthusiast
+### 💻 Student Developer | Web Development | AI Enthusiast
 
-I'm a student developer passionate about **software development, web technologies, and artificial intelligence**.
+I'm a **Student Developer** passionate about software development, web technologies, and artificial intelligence.
 
-Currently learning **Java, JavaScript, and MySQL** while building projects and improving my programming skills.
+Currently, I'm focused on learning **Java and JavaScript**, building projects, and continuously improving my programming and problem-solving skills.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🎓 Student Developer
-* ☕ Learning Java
-* 🌐 Exploring Web Development
-* 🗄️ Learning MySQL
-* 🤖 Interested in AI & Machine Learning
-* 🚀 Learning by building projects
-* 📚 Always improving my skills
+* ☕ Currently learning **Java**
+* 🌐 Exploring **Web Development**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🚀 Learning by building real-world projects
+* 📚 Continuously improving my development skills
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+---
+
+## 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 🎯 Goals
 
-* Build real-world applications
-* Become a Full Stack Developer
-* Improve programming and problem-solving skills
-* Build practical AI projects
-* Contribute to Open Source
+* 🚀 Build real-world applications
+* 🧠 Strengthen programming and problem-solving skills
+* 🌐 Become a Full Stack Developer
+* 🤖 Build practical AI projects
+* 🤝 Contribute to Open Source
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaniduSathsara&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduSathsara&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaniduSathsara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduSathsara&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
@@ -43,12 +58,12 @@ Currently learning **Java, JavaScript, and MySQL** while building projects and i
 
 <p align="center">
   <a href="mailto:janidusathsara497@gmail.com">
-    Gmail
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2f81f7?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Learning • Building • Improving</i>
+  <b>Learning • Building • Improving</b>
 </p>
