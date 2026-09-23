@@ -18,32 +18,15 @@ I am a student developer passionate about coding, technology, and artificial int
 
 ### 🚀 Programming Languages
 
-<p>
+<p align "Center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🔧 Tools
 
-<p>
+<p align "Center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
-
-## 📚 Currently Learning
-
-* ☕ Java
-* 🟨 JavaScript
-* 🗄️ MySQL & Database Development
-* 🌐 Web Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧩 Object-Oriented Programming
 
 ---
 
@@ -74,11 +57,4 @@ I am a student developer passionate about coding, technology, and artificial int
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
----
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
 </p>
