@@ -4,8 +4,6 @@
 
 I'm a **Student Developer** passionate about software development, web technologies, and artificial intelligence.
 
-Currently, I'm focused on learning **Java and JavaScript**, building projects, and continuously improving my programming and problem-solving skills.
-
 ---
 
 ## 👨‍💻 About Me
@@ -21,7 +19,7 @@ Currently, I'm focused on learning **Java and JavaScript**, building projects, a
 
 ## 🛠️ Languages & Technologies
 
-<p align="left">
+<p align="Center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
@@ -29,7 +27,7 @@ Currently, I'm focused on learning **Java and JavaScript**, building projects, a
 
 ## 🔧 Tools
 
-<p align="left">
+<p align="Center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -48,8 +46,8 @@ Currently, I'm focused on learning **Java and JavaScript**, building projects, a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaniduSathsara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduSathsara&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaniduSathsara&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniduSathsara&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
@@ -67,3 +65,4 @@ Currently, I'm focused on learning **Java and JavaScript**, building projects, a
 <p align="center">
   <b>Learning • Building • Improving</b>
 </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
