@@ -32,7 +32,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JaniduSathsara&theme=dark&hide_border=true&ring=F59E0B&fire=F97316&currStreakLabel=F59E0B">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JaniduSathsara&theme=default&hide_border=true&ring=D97706&fire=EA580C&currStreakLabel=92400E">
-    <img src="https://streak-stats.demolab.com?user=JaniduSathsara&theme=default&hide_border=true&ring=D97706&fire=EA580C">
+    <img src="https://streak-stats.demolab.com?user=JaniduSathsara&theme=default&hide_border=true" width="350" />
   </picture>
 </p>
 
